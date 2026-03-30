@@ -11,3 +11,107 @@ In the context of the AUV sonar visualization tool, simulated training is achiev
 
 
 -
+
+
+
+
+
+.Here is that line written properly in report format 👇
+
+
+---
+
+Workflow of the System
+
+The system follows a structured sequence of operations:
+
+Define Scenario → Plan Mission → Simulate Mission → Display Updates
+
+Explanation:
+
+Define Scenario: Set up the environment, including minefields and search areas.
+
+Plan Mission: Configure mission parameters and navigation plan.
+
+Simulate Mission: Execute the mission using simulation and sonar visualization.
+
+Display Updates: Show results, updates, and outputs on the interface.
+
+
+
+---
+
+If you want, I can make this into a flowchart diagram (very impressive in viva) 👍
+
+
+
+
+
+Here is your handwritten note converted into a clean typed format 👇
+
+
+---
+
+📄 AUV Sonar System – Workflow & Contributions
+
+1. Workflow
+
+The system follows a structured workflow:
+
+Define Scenario → Plan Mission → Simulate Mission → Display Updates
+
+
+---
+
+2. Contributions
+
+1) Scenario Definition
+
+Define minefield configuration
+
+Define search area
+
+
+
+---
+
+2) Scenario Modification
+
+Configuration of navigation plan
+
+
+
+---
+
+3) Mission Simulation
+
+Perform simulation
+
+Sonar visualization
+
+
+
+---
+
+4) Bug Identification & Resolution
+
+Identify system bugs
+
+Fix and resolve issues
+
+
+
+---
+
+✅ Summary
+
+The system starts with defining a scenario, followed by mission planning and simulation. Finally, results are displayed, and improvements are made through bug identification and resolution.
+
+
+---
+
+If you want, I can also: ✅ Merge this with your previous report
+✅ Convert into PPT for presentation
+✅ Add flowchart diagram (very useful for viva)
+
+Just tell me 👍
